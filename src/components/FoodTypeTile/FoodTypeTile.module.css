@@ -1,0 +1,12 @@
+.outer{
+    background-color: aqua;
+    width: 8vw;
+    height: 8vw; 
+    border-radius: 10px;  
+}
+
+.mainTitle {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 1.4rem;
+}
