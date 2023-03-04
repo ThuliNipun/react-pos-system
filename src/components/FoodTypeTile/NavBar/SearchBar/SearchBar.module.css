@@ -1,0 +1,23 @@
+.outer{
+
+}
+
+.image{
+
+}
+
+.input{
+
+    background-color: #2D2D2D;
+    font-family: 'Poppins';
+    font-weight: 600;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: white;
+}
+
+.input::placeholder{
+    color: white;
+}
