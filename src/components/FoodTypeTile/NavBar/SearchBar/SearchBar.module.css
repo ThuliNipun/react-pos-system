@@ -1,9 +1,17 @@
 .outer{
-
+    position: relative;
+    width: fit-content;
 }
 
 .image{
-
+    position: absolute;
+    width: 10%;
+    top: 0;
+    left: 5px;
+    bottom: 0;
+    margin: auto;
+    color: white;
+   
 }
 
 .input{
@@ -11,13 +19,14 @@
     background-color: #2D2D2D;
     font-family: 'Poppins';
     font-weight: 600;
-    padding: 0.5rem;
-    font-size: 1rem;
+    padding: 0.9rem 0.9rem 0.9rem 3rem;
+    font-size: 1.5rem;
     border-radius: 0.5rem;
     border: none;
-    color: white;
+    color: #AEAEAE;
 }
 
 .input::placeholder{
-    color: white;
+    color: #AEAEAE;
+    padding: 0.9rem 0.9rem 0.9rem 0rem;
 }
